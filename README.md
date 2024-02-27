@@ -1,5 +1,3 @@
-# Internship-Opportunities-2024
-
 # 2024 Tech Internships - collected by ACPC club MIU
 you're free to share this repo with your friends and anyone interested in tech!
 
