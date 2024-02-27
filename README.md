@@ -9,6 +9,7 @@ you're free to share this repo with your friends and anyone interested in tech!
 ---
 <div align="center">
 	<h3>😮‍💨 searching for internships everyday is an exhausting process 😮‍💨 </h3>
+	<h4> but we have made it easier for you 🫰</h4>
 </div>
 
 ---
